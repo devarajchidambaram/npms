@@ -9,6 +9,9 @@ reference : https://dev.to/moz5691/method-override-for-put-and-delete-in-html-3f
 #express-validator
 middle-ware for validates inputs
 
+#compression
+compressing body for the response
+
 #filtering
 NPM : only 
 

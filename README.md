@@ -6,6 +6,9 @@ npm : method-override
 use : support for PUT, DELETE method in http forms
 reference : https://dev.to/moz5691/method-override-for-put-and-delete-in-html-3fp2
 
+#express-validator
+middle-ware for validates inputs
+
 #filtering
 NPM : only 
 
